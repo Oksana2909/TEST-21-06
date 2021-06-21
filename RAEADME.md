@@ -1,4 +1,3 @@
-# TEST-21-06
 curl 'https://test.rtoperator.ru/lk/request.php?type=saveOrder' \
   -H 'Connection: keep-alive' \
   -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
